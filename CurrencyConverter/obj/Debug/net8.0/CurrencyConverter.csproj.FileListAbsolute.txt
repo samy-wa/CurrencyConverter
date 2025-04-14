@@ -40,3 +40,5 @@ D:\Personal\Project\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\Microso
 D:\Personal\Project\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Personal\Project\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\Polly.dll
 D:\Personal\Project\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\Polly.Extensions.Http.dll
+D:\Personal\Project\CurrencyConverter\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.sourcelink.json
+D:\Personal\Project\CurrencyConverter\CurrencyConverter\bin\Debug\net8.0\BouncyCastle.Crypto.dll
